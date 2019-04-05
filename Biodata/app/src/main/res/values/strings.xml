@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BIODATA</string>
+    <string name="Biodata">Biodata</string>
+    <string name="Wilayah">Wilayah</string>
+    <string name="Hasil">Hasil</string>
+    <string name="Submit">Submit</string>
+    <string name="Tahun">Tahun Lahir</string>
+    <string name="name">Nama</string>
+</resources>
